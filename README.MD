@@ -12,10 +12,10 @@ Looking for a job :P
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <div style="display: flex; justify-content: center; width: 100%;">
         <img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="45%">
-        <img src="./metrics.plugin.languages.svg" alt="Languages activity" width="45%">
+        <img src="./metrics.plugin.lines.svg" alt="Languages activity" width="45%">
     </div>
-    <div style="width: 100%;">
-        <img src="./metrics.plugin.lines.svg" alt="Lines of code changed" width="50%">
+    <div style="display: flex; justify-content: center; width: 100%;">
+        <img src="./metrics.plugin.languages.svg" alt="Lines of code changed" width="50%">
     </div>
 
 </div>
