@@ -1,0 +1,105 @@
+<svg width="900" height="230" viewBox="0 0 900 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #050505; stroke: #202020; stroke-width: 1; }
+    .title { fill: #5f5f5f; font: 700 13px Arial, sans-serif; letter-spacing: .08em; }
+    .label { fill: #d7d7d7; font: 600 14px Arial, sans-serif; }
+    .muted { fill: #585858; font: 600 12px Arial, sans-serif; }
+    .badge-text { fill: #f0f6fc; font: 700 12px Arial, sans-serif; }
+    .center { fill: #777777; font: 700 12px Arial, sans-serif; }
+  </style>
+
+  <rect width="900" height="230" fill="#000000"/>
+
+  <rect class="card" x="10" y="10" width="430" height="210" rx="8"/>
+  <text class="title" x="30" y="42">CORE TECHNOLOGIES</text>
+
+  <g transform="translate(30 65)">
+    <rect width="74" height="28" rx="14" fill="#171717" stroke="#252525"/>
+    <circle cx="17" cy="14" r="5" fill="#512bd4"/>
+    <text class="badge-text" x="30" y="18">.NET</text>
+  </g>
+
+  <g transform="translate(116 65)">
+    <rect width="58" height="28" rx="14" fill="#102113" stroke="#1e3a22"/>
+    <circle cx="17" cy="14" r="5" fill="#178600"/>
+    <text class="badge-text" x="30" y="18">C#</text>
+  </g>
+
+  <g transform="translate(186 65)">
+    <rect width="88" height="28" rx="14" fill="#102026" stroke="#1d3942"/>
+    <circle cx="17" cy="14" r="5" fill="#61dafb"/>
+    <text class="badge-text" x="30" y="18">React</text>
+  </g>
+
+  <g transform="translate(286 65)">
+    <rect width="118" height="28" rx="14" fill="#101c2b" stroke="#1d3350"/>
+    <circle cx="17" cy="14" r="5" fill="#3178c6"/>
+    <text class="badge-text" x="30" y="18">TypeScript</text>
+  </g>
+
+  <g transform="translate(30 108)">
+    <rect width="112" height="28" rx="14" fill="#25220d" stroke="#393416"/>
+    <circle cx="17" cy="14" r="5" fill="#f1e05a"/>
+    <text class="badge-text" x="30" y="18">JavaScript</text>
+  </g>
+
+  <g transform="translate(154 108)">
+    <rect width="100" height="28" rx="14" fill="#291111" stroke="#451d1d"/>
+    <circle cx="17" cy="14" r="5" fill="#cc2927"/>
+    <text class="badge-text" x="30" y="18">SQL</text>
+  </g>
+
+  <g transform="translate(266 108)">
+    <rect width="106" height="28" rx="14" fill="#0d1f2b" stroke="#18364a"/>
+    <circle cx="17" cy="14" r="5" fill="#2496ed"/>
+    <text class="badge-text" x="30" y="18">Docker</text>
+  </g>
+
+  <g transform="translate(30 151)">
+    <rect width="90" height="28" rx="14" fill="#2b1510" stroke="#4a231b"/>
+    <circle cx="17" cy="14" r="5" fill="#f05032"/>
+    <text class="badge-text" x="30" y="18">Git</text>
+  </g>
+
+  <g transform="translate(132 151)">
+    <rect width="128" height="28" rx="14" fill="#11191c" stroke="#223137"/>
+    <circle cx="17" cy="14" r="5" fill="#384d54"/>
+    <text class="badge-text" x="30" y="18">Dockerfile</text>
+  </g>
+
+  <rect class="card" x="460" y="10" width="430" height="210" rx="8"/>
+
+  <g transform="translate(525 46)">
+    <circle cx="60" cy="60" r="46" stroke="#333333" stroke-width="18"/>
+    <circle cx="60" cy="60" r="46" stroke="#3178c6" stroke-width="18" stroke-dasharray="149 289" stroke-dashoffset="0" transform="rotate(-90 60 60)"/>
+    <circle cx="60" cy="60" r="46" stroke="#178600" stroke-width="18" stroke-dasharray="124 289" stroke-dashoffset="-149" transform="rotate(-90 60 60)"/>
+    <circle cx="60" cy="60" r="46" stroke="#f1e05a" stroke-width="18" stroke-dasharray="12 289" stroke-dashoffset="-273" transform="rotate(-90 60 60)"/>
+    <circle cx="60" cy="60" r="46" stroke="#663399" stroke-width="18" stroke-dasharray="4 289" stroke-dashoffset="-285" transform="rotate(-90 60 60)"/>
+    <circle cx="60" cy="60" r="46" stroke="#384d54" stroke-width="18" stroke-dasharray="1 289" stroke-dashoffset="-289" transform="rotate(-90 60 60)"/>
+    <text class="center" x="41" y="65">6 langs</text>
+  </g>
+
+  <g transform="translate(700 56)">
+    <circle cx="0" cy="0" r="6" fill="#3178c6"/>
+    <text class="label" x="18" y="5">TypeScript</text>
+    <text class="label" x="165" y="5" text-anchor="end">51.7%</text>
+
+    <circle cx="0" cy="32" r="6" fill="#178600"/>
+    <text class="label" x="18" y="37">C#</text>
+    <text class="label" x="165" y="37" text-anchor="end">42.8%</text>
+
+    <circle cx="0" cy="64" r="6" fill="#f1e05a"/>
+    <text class="label" x="18" y="69">JavaScript</text>
+    <text class="label" x="165" y="69" text-anchor="end">4.0%</text>
+
+    <circle cx="0" cy="96" r="6" fill="#663399"/>
+    <text class="label" x="18" y="101">CSS</text>
+    <text class="label" x="165" y="101" text-anchor="end">1.3%</text>
+
+    <circle cx="0" cy="128" r="6" fill="#384d54"/>
+    <text class="label" x="18" y="133">Dockerfile</text>
+    <text class="label" x="165" y="133" text-anchor="end">0.1%</text>
+  </g>
+
+  <text class="muted" x="585" y="188" text-anchor="middle">GitHub language stats</text>
+</svg>
