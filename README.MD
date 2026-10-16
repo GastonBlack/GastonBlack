@@ -1,11 +1,11 @@
 
 Hello, my name's Gastón Galeano. |
-Fullstack Developer .NET & React |
+Software Engineer |
 Montevideo, Uruguay
 
-> Looking for a job :P
+> Looking for a job.
 >
-> - Programming mainly with .NET & React.
+> - Working mainly with .NET and React.
 > - Interested in backend design and API development.
 > - Always improving through real projects.
 
