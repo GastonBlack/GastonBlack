@@ -5,7 +5,7 @@ Montevideo, Uruguay
 
 > Looking for a job.
 >
-> - Working mainly with .NET and React.
+> - Working mostly with .NET and React.
 > - Interested in backend design and API development.
 > - Always improving through real projects.
 
